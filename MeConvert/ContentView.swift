@@ -69,7 +69,7 @@ struct ContentView: View {
 
                 }
             }
-            .navigationTitle("MeMeasure")
+            .navigationTitle("MeConvert")
         }
     }
 }
